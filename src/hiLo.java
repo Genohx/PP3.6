@@ -33,7 +33,7 @@ public class hiLo
             }//end less than if
             else
             {
-                System.out.println("Congratulations! You guessed the number!");
+                System.out.println("Congratulations! You guessed the number!!");
             }
             System.out.print("Would you like to play again?(yes or no?)");
             again = scan.nextLine();
