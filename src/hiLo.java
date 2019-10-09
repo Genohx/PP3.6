@@ -26,7 +26,7 @@ public class hiLo
                 guess = scan.nextInt();
             }//end greater than if
             else if (guess < answer)
-            {
+            {//
                 System.out.println("That guess is too low.");
                 System.out.print("\nGuess again: ");
                 guess = scan.nextInt();
